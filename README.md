@@ -1,1 +1,1 @@
-# Seminario_Lab1_3.0
+# Seminario_Laboratorios
